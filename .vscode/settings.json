@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.txt": "perl, plaintext",
+        "vector": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "fstream": "cpp",
+        "map": "cpp",
+        "sstream": "cpp",
+        "functional": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "utility": "cpp"
+    }
+}
