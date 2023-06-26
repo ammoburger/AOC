@@ -1,2 +1,0 @@
-            finalScore++;
-            cout << finalScore;
